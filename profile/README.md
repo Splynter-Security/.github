@@ -6,14 +6,13 @@ Our vision is a world where (complex) environments are cyber secure by default, 
 
 Our mission is to holistically improve the cyber security posture of companies around the globe through a vendor-independent and risk-based approach, combining high-quality security architecture with in-depth technical cyber security expertise.
 
-[splynter.be](https://splynter.be)
-
 # Overview of splynter-security
+This organization contains repositories that aid us in our job as cyber security architects.
 
 ## Web security 
 These are repositories used throughout the web security courses we give.
 
-| Name (prepended with *websec*) | Description  |
+| Name | Description  |
 | --- | --- | 
 | [NodeGoat](https://github.com/Splynter-Security/websec-nodegoat) | Our [OWASP Nodegoat](https://github.com/OWASP/NodeGoat) implementation. |
 | [Juice-Shop](https://github.com/Splynter-Security/websec-juice-shop)| Our [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) implementation. |
