@@ -1,6 +1,6 @@
 # Splynter
 
-**Combatting your adversaries with structure.**
+**Cybersecurity is a constant, evolving battle.**
 
 Our vision is a world where (complex) environments are cyber secure by default, not by exception.
 
