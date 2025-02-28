@@ -24,4 +24,4 @@ These are repositories used throughout the web security courses we give.
 ## Miscellaneous
 | Name | Description  | Info |
 | --- | --- | --- |
-| [Threat Modeling GitBook](https://github.com/Splynter-Security/Threat-Modeling-GitBook) | A gitbook on the intersection between Enterprise Architecture and Threat Modeling | |
+| [Threat Modeling GitBook](https://github.com/Splynter-Security/Threat-Modeling-GitBook) | A gitbook on the intersection between Enterprise Architecture and Threat Modeling | [Read Online](https://roos-hubrechtsen.gitbook.io/threat-modeling-by-splynter/) |
