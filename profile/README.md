@@ -22,5 +22,6 @@ These are repositories used throughout the web security courses we give.
 | [SCS SRI](https://github.com/Splynter-Security/websec-scs-sri) | A small project used throughout the supply chain security (SCS) course to show how SRI prevents unexpected changes to some source code. | |
 
 ## Miscellaneous
+| Name | Description  | Info |
 | --- | --- | --- |
-| [Threat Modeling GitBook](https://github.com/Splynter-Security/Threat-Modeling-GitBook) | A gitbook on the intersection between Enterprise Architecture and Threat Modeling
+| [Threat Modeling GitBook](https://github.com/Splynter-Security/Threat-Modeling-GitBook) | A gitbook on the intersection between Enterprise Architecture and Threat Modeling | |
